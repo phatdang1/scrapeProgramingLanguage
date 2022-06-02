@@ -1,0 +1,1618 @@
+{
+   "programing_language": [
+      {
+         "name": "A+ (A plus)",
+         "url": "https://en.wikipedia.org//wiki/A%2B_(programming_language)",
+         "paradigm": [
+            "Array"
+         ],
+         "first_appeared": "1988",
+         "file_extension": ".mw-parser-output .monospaced{font-family:monospace,monospace}.., .+, .a, .m[1]",
+         "number_of_header_section": 5
+      },
+      {
+         "name": "Ada",
+         "url": "https://en.wikipedia.org//wiki/Ada_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "structured",
+            "imperative",
+            "object-oriented",
+            "concurrent",
+            "array",
+            "distributed",
+            "generic",
+            "procedural",
+            "meta"
+         ],
+         "first_appeared": "February\u00a01980",
+         "file_extension": ".adb, .ads",
+         "number_of_header_section": 22
+      },
+      {
+         "name": "Agda",
+         "url": "https://en.wikipedia.org//wiki/Agda_(theorem_prover)",
+         "paradigm": [
+            "Functional"
+         ],
+         "first_appeared": "2007",
+         "file_extension": ".agda, .lagda, .lagda.md, .lagda.rst, .lagda.tex",
+         "number_of_header_section": 17
+      },
+      {
+         "name": "Aldor",
+         "url": "https://en.wikipedia.org//wiki/Aldor",
+         "paradigm": [
+            "Multi-paradigm",
+            "object-oriented",
+            "functional",
+            "imperative",
+            "dependent typed",
+            "logic"
+         ],
+         "first_appeared": "1990",
+         "file_extension": ".al, .as",
+         "number_of_header_section": 6
+      },
+      {
+         "name": "AmbientTalk",
+         "url": "https://en.wikipedia.org//wiki/AmbientTalk",
+         "paradigm": [
+            "object-oriented",
+            "prototype-based",
+            "Concurrent",
+            "Event-driven",
+            "Reflective"
+         ],
+         "first_appeared": "2006",
+         "file_extension": ".at",
+         "number_of_header_section": 6
+      },
+      {
+         "name": "AMPL",
+         "url": "https://en.wikipedia.org//wiki/AMPL",
+         "paradigm": [
+            "Multi-paradigm",
+            "declarative",
+            "imperative"
+         ],
+         "first_appeared": "1985",
+         "file_extension": ".mod, .dat, .run",
+         "number_of_header_section": 12
+      },
+      {
+         "name": "AppleScript",
+         "url": "https://en.wikipedia.org//wiki/AppleScript",
+         "paradigm": [
+            "Natural language programming",
+            "Scripting"
+         ],
+         "first_appeared": "1993",
+         "file_extension": ".scpt, .scptd, .applescript",
+         "number_of_header_section": 29
+      },
+      {
+         "name": "Arc",
+         "url": "https://en.wikipedia.org//wiki/Arc_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "meta",
+            "procedural"
+         ],
+         "first_appeared": "29\u00a0January 2008",
+         "file_extension": ".arc",
+         "number_of_header_section": 13
+      },
+      {
+         "name": "AutoIt",
+         "url": "https://en.wikipedia.org//wiki/AutoIt",
+         "paradigm": [
+            "Object-oriented",
+            "imperative",
+            "functional",
+            "procedural",
+            "reflective"
+         ],
+         "first_appeared": "January\u00a01999",
+         "file_extension": ".au3",
+         "number_of_header_section": 14
+      },
+      {
+         "name": "Bosque",
+         "url": "https://en.wikipedia.org//wiki/Bosque_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "typed language"
+         ],
+         "first_appeared": "March\u00a03, 2019",
+         "file_extension": ".bsq[2]",
+         "number_of_header_section": 11
+      },
+      {
+         "name": "C",
+         "url": "https://en.wikipedia.org//wiki/C_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "imperative",
+            "procedural",
+            "structured"
+         ],
+         "first_appeared": "1972",
+         "file_extension": ".c, .h",
+         "number_of_header_section": 40
+      },
+      {
+         "name": "C++",
+         "url": "https://en.wikipedia.org//wiki/C%2B%2B",
+         "paradigm": [
+            "Multi-paradigm",
+            "procedural",
+            "functional",
+            "object-oriented",
+            "generic",
+            "modular"
+         ],
+         "first_appeared": "1985",
+         "file_extension": ".C, .cc, .cpp, .cxx, .c++, .h, .H, .hh, .hpp, .hxx, .h++",
+         "number_of_header_section": 36
+      },
+      {
+         "name": "C*",
+         "url": "https://en.wikipedia.org//wiki/C*",
+         "paradigm": [
+            "multi-paradigm",
+            "object-oriented",
+            "imperative",
+            "parallel"
+         ],
+         "first_appeared": "1987",
+         "file_extension": ".cs",
+         "number_of_header_section": 6
+      },
+      {
+         "name": "C#",
+         "url": "https://en.wikipedia.org//wiki/C_Sharp_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "structured",
+            "imperative",
+            "object-oriented",
+            "event-driven",
+            "task-driven",
+            "functional",
+            "generic",
+            "reflective",
+            "concurrent"
+         ],
+         "first_appeared": "2000",
+         "file_extension": ".cs, .csx",
+         "number_of_header_section": 36
+      },
+      {
+         "name": "Ceylon",
+         "url": "https://en.wikipedia.org//wiki/Ceylon_(programming_language)",
+         "paradigm": [
+            "Object-oriented"
+         ],
+         "first_appeared": "2011",
+         "file_extension": ".ceylon[1]",
+         "number_of_header_section": 16
+      },
+      {
+         "name": "Chapel (Cascade High Productivity Language)",
+         "url": "https://en.wikipedia.org//wiki/Chapel_(programming_language)",
+         "paradigm": [
+            "Object-oriented",
+            "Partitioned global address space",
+            "Parallel programming"
+         ],
+         "first_appeared": "2009",
+         "file_extension": ".chpl",
+         "number_of_header_section": 11
+      },
+      {
+         "name": "Claire",
+         "url": "https://en.wikipedia.org//wiki/Claire_(programming_language)",
+         "paradigm": [
+            "multi-paradigm",
+            "functional",
+            "object-oriented",
+            "class-based",
+            "rule processing",
+            "reflective"
+         ],
+         "first_appeared": "1994\u00a0(1994)",
+         "file_extension": ".cl",
+         "number_of_header_section": 6
+      },
+      {
+         "name": "Clean",
+         "url": "https://en.wikipedia.org//wiki/Clean_(programming_language)",
+         "paradigm": [
+            "functional"
+         ],
+         "first_appeared": "1987",
+         "file_extension": ".icl, .dcl, .abc",
+         "number_of_header_section": 14
+      },
+      {
+         "name": "Clojure",
+         "url": "https://en.wikipedia.org//wiki/Clojure",
+         "paradigm": [
+            "multi-paradigm",
+            "agent-oriented",
+            "[1]",
+            "concurrent",
+            "[2]",
+            "[3]",
+            "functional",
+            "[4]",
+            "logic",
+            "[5]",
+            "macro",
+            "[6]",
+            "pipeline",
+            "[7]"
+         ],
+         "first_appeared": "2007",
+         "file_extension": "\n.clj\n.cljs\n.cljc\n.edn\n",
+         "number_of_header_section": 26
+      },
+      {
+         "name": "COBOL",
+         "url": "https://en.wikipedia.org//wiki/COBOL",
+         "paradigm": [
+            "Procedural",
+            "imperative",
+            "object-oriented"
+         ],
+         "first_appeared": "1959",
+         "file_extension": ".cbl, .cob, .cpy",
+         "number_of_header_section": 51
+      },
+      {
+         "name": "Cobra",
+         "url": "https://en.wikipedia.org//wiki/Cobra_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "object-oriented"
+         ],
+         "first_appeared": "2006",
+         "file_extension": ".cobra",
+         "number_of_header_section": 10
+      },
+      {
+         "name": "CoffeeScript",
+         "url": "https://en.wikipedia.org//wiki/CoffeeScript",
+         "paradigm": [
+            "Multi-paradigm",
+            "prototype-based",
+            "functional",
+            "imperative",
+            "scripting"
+         ],
+         "first_appeared": "December\u00a013, 2009",
+         "file_extension": ".coffee, .litcoffee[citation needed]",
+         "number_of_header_section": 14
+      },
+      {
+         "name": "Common Lisp",
+         "url": "https://en.wikipedia.org//wiki/Common_Lisp",
+         "paradigm": [
+            "Multi-paradigm",
+            "procedural",
+            "functional",
+            "object-oriented",
+            "meta",
+            "reflective",
+            "generic"
+         ],
+         "first_appeared": "1984 (38\u00a0years ago)\u00a0(1984), 1994 (28\u00a0years ago)\u00a0(1994) for ANSI Common Lisp",
+         "file_extension": ".lisp, .lsp, .l, .cl, .fasl",
+         "number_of_header_section": 43
+      },
+      {
+         "name": "Crystal",
+         "url": "https://en.wikipedia.org//wiki/Crystal_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "object-oriented",
+            "concurrent"
+         ],
+         "first_appeared": "June\u00a019, 2014",
+         "file_extension": ".cr",
+         "number_of_header_section": 15
+      },
+      {
+         "name": "Cuneiform",
+         "url": "https://en.wikipedia.org//wiki/Cuneiform_(programming_language)",
+         "paradigm": [
+            "functional",
+            "scientific workflow"
+         ],
+         "first_appeared": "2013",
+         "file_extension": ".cfl",
+         "number_of_header_section": 16
+      },
+      {
+         "name": "D",
+         "url": "https://en.wikipedia.org//wiki/D_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "imperative",
+            "object-oriented"
+         ],
+         "first_appeared": "8\u00a0December 2001",
+         "file_extension": ".d[6][7]",
+         "number_of_header_section": 34
+      },
+      {
+         "name": "Dart",
+         "url": "https://en.wikipedia.org//wiki/Dart_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "imperative",
+            "object-oriented",
+            "reflective",
+            "[1]"
+         ],
+         "first_appeared": "October\u00a010, 2011",
+         "file_extension": ".dart",
+         "number_of_header_section": 20
+      },
+      {
+         "name": "Darwin",
+         "url": "https://en.wikipedia.org//wiki/Darwin_(programming_language)",
+         "paradigm": [
+            "imperative",
+            "structured",
+            "object-oriented"
+         ],
+         "first_appeared": "1991",
+         "file_extension": ".drw",
+         "number_of_header_section": 6
+      },
+      {
+         "name": "Draco",
+         "url": "https://en.wikipedia.org//wiki/Draco_(programming_language)",
+         "paradigm": [
+            "imperative",
+            "procedural",
+            "structured"
+         ],
+         "first_appeared": "early 1980s, discontinued around 1990",
+         "file_extension": ".d .g",
+         "number_of_header_section": 5
+      },
+      {
+         "name": "Dylan",
+         "url": "https://en.wikipedia.org//wiki/Dylan_(programming_language)",
+         "paradigm": [
+            "multi-paradigm",
+            "functional",
+            "object-oriented"
+         ],
+         "first_appeared": "1992",
+         "file_extension": "dylan, lid",
+         "number_of_header_section": 15
+      },
+      {
+         "name": "eC",
+         "url": "https://en.wikipedia.org//wiki/EC_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "procedural",
+            "object-oriented",
+            "generic"
+         ],
+         "first_appeared": "2004",
+         "file_extension": ".ec, .eh",
+         "number_of_header_section": 9
+      },
+      {
+         "name": "Eiffel",
+         "url": "https://en.wikipedia.org//wiki/Eiffel_(programming_language)",
+         "paradigm": [
+            "Object-oriented",
+            "Class-based",
+            "Generic",
+            "Concurrent"
+         ],
+         "first_appeared": "1986[1]",
+         "file_extension": ".e",
+         "number_of_header_section": 33
+      },
+      {
+         "name": "Elixir",
+         "url": "https://en.wikipedia.org//wiki/Elixir_(programming_language)",
+         "paradigm": [
+            "multi-paradigm",
+            "functional",
+            "concurrent",
+            "distributed",
+            "process-oriented"
+         ],
+         "first_appeared": "2012",
+         "file_extension": ".ex, .exs",
+         "number_of_header_section": 12
+      },
+      {
+         "name": "Elm",
+         "url": "https://en.wikipedia.org//wiki/Elm_(programming_language)",
+         "paradigm": [
+            "Functional"
+         ],
+         "first_appeared": "March\u00a030, 2012",
+         "file_extension": ".elm",
+         "number_of_header_section": 17
+      },
+      {
+         "name": "Emacs Lisp",
+         "url": "https://en.wikipedia.org//wiki/Emacs_Lisp",
+         "paradigm": [
+            "Functional",
+            "meta",
+            "reflective"
+         ],
+         "first_appeared": "1985",
+         "file_extension": ".el, .elc, .eln",
+         "number_of_header_section": 12
+      },
+      {
+         "name": "EPL (Easy Programming Language)",
+         "url": "https://en.wikipedia.org//wiki/Easy_Programming_Language",
+         "paradigm": [
+            "Multi-paradigm",
+            "compiled",
+            "imperative",
+            "procedural",
+            "object-oriented",
+            "functional"
+         ],
+         "first_appeared": "2004",
+         "file_extension": ".e",
+         "number_of_header_section": 6
+      },
+      {
+         "name": "Erlang",
+         "url": "https://en.wikipedia.org//wiki/Erlang_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "concurrent",
+            "functional"
+         ],
+         "first_appeared": "1986",
+         "file_extension": ".erl, .hrl",
+         "number_of_header_section": 22
+      },
+      {
+         "name": "Euphoria",
+         "url": "https://en.wikipedia.org//wiki/Euphoria_(programming_language)",
+         "paradigm": [
+            "Imperative, procedural"
+         ],
+         "first_appeared": "1993",
+         "file_extension": ".e, .ex, .exw, .edb",
+         "number_of_header_section": 16
+      },
+      {
+         "name": "Ezhil",
+         "url": "https://en.wikipedia.org//wiki/Ezhil_(programming_language)",
+         "paradigm": [
+            "interpreted",
+            "imperative",
+            "structured"
+         ],
+         "first_appeared": "2007",
+         "file_extension": ".n",
+         "number_of_header_section": 26
+      },
+      {
+         "name": "F# (F sharp)",
+         "url": "https://en.wikipedia.org//wiki/F_Sharp_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "imperative",
+            "object-oriented",
+            "metaprogramming",
+            "reflective",
+            "concurrent"
+         ],
+         "first_appeared": "2005",
+         "file_extension": ".fs, .fsi, .fsx, .fsscript",
+         "number_of_header_section": 30
+      },
+      {
+         "name": "Fantom",
+         "url": "https://en.wikipedia.org//wiki/Fantom_(programming_language)",
+         "paradigm": [
+            "multi-paradigm"
+         ],
+         "first_appeared": "2005[1]",
+         "file_extension": ".fan, .fwt, .pod",
+         "number_of_header_section": 14
+      },
+      {
+         "name": "Fj\u00f6lnir",
+         "url": "https://en.wikipedia.org//wiki/Fj%C3%B6lnir_(programming_language)",
+         "paradigm": [
+            "object-oriented"
+         ],
+         "first_appeared": "1980s",
+         "file_extension": ".fjo, .fjv, .sma, .ein",
+         "number_of_header_section": 8
+      },
+      {
+         "name": "Forth",
+         "url": "https://en.wikipedia.org//wiki/Forth_(programming_language)",
+         "paradigm": [
+            "Procedural",
+            "stack-oriented",
+            "reflective",
+            "concatenative"
+         ],
+         "first_appeared": "1970",
+         "file_extension": ".fs, .fth, .4th, .f, .forth[citation needed]",
+         "number_of_header_section": 27
+      },
+      {
+         "name": "Fortran",
+         "url": "https://en.wikipedia.org//wiki/Fortran",
+         "paradigm": [
+            "Multi-paradigm",
+            "structured",
+            "imperative",
+            "procedural",
+            "object-oriented",
+            "generic",
+            "array"
+         ],
+         "first_appeared": "1957",
+         "file_extension": ".f, .for, .f90",
+         "number_of_header_section": 37
+      },
+      {
+         "name": "G-code",
+         "url": "https://en.wikipedia.org//wiki/G-code",
+         "paradigm": [
+            "Procedural",
+            "Imperative"
+         ],
+         "first_appeared": "1950s (first edition)",
+         "file_extension": ".gcode, .mpt, .mpf, .nc and several others",
+         "number_of_header_section": 19
+      },
+      {
+         "name": "Genie",
+         "url": "https://en.wikipedia.org//wiki/Genie_(programming_language)",
+         "paradigm": [
+            "multi-paradigm",
+            "imperative",
+            "structured",
+            "object-oriented"
+         ],
+         "first_appeared": "2008",
+         "file_extension": ".gs",
+         "number_of_header_section": 10
+      },
+      {
+         "name": "Go",
+         "url": "https://en.wikipedia.org//wiki/Go_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "concurrent",
+            "imperative",
+            "object-oriented",
+            "[1]",
+            "[2]"
+         ],
+         "first_appeared": "November\u00a010, 2009",
+         "file_extension": ".go",
+         "number_of_header_section": 34
+      },
+      {
+         "name": "Grasshopper",
+         "url": "https://en.wikipedia.org//wiki/Grasshopper_3D",
+         "paradigm": [
+            "visual programming"
+         ],
+         "first_appeared": "September\u00a02007",
+         "file_extension": ".gh (binary), .ghx (ascii), .gha (plugins)",
+         "number_of_header_section": 9
+      },
+      {
+         "name": "Groovy (Apache Groovy)",
+         "url": "https://en.wikipedia.org//wiki/Apache_Groovy",
+         "paradigm": [
+            "Object-oriented",
+            "imperative",
+            "scripting"
+         ],
+         "first_appeared": "2003",
+         "file_extension": ".groovy, .gvy, .gy, .gsh[2]",
+         "number_of_header_section": 24
+      },
+      {
+         "name": "Harbour",
+         "url": "https://en.wikipedia.org//wiki/Harbour_(software)",
+         "paradigm": [
+            "multi-paradigm",
+            "imperative",
+            "functional",
+            "object-oriented",
+            "reflective"
+         ],
+         "first_appeared": "1999",
+         "file_extension": ".prg, .ch, .hb, .hbp",
+         "number_of_header_section": 27
+      },
+      {
+         "name": "Haskell",
+         "url": "https://en.wikipedia.org//wiki/Haskell_(programming_language)",
+         "paradigm": [
+            "Purely functional"
+         ],
+         "first_appeared": "1990",
+         "file_extension": ".hs, .lhs",
+         "number_of_header_section": 21
+      },
+      {
+         "name": "Haxe",
+         "url": "https://en.wikipedia.org//wiki/Haxe",
+         "paradigm": [
+            "Multi-paradigm"
+         ],
+         "first_appeared": "November\u00a014, 2005",
+         "file_extension": ".hx, .hxml",
+         "number_of_header_section": 23
+      },
+      {
+         "name": "Idris",
+         "url": "https://en.wikipedia.org//wiki/Idris_(programming_language)",
+         "paradigm": [
+            "Functional"
+         ],
+         "first_appeared": "2007",
+         "file_extension": ".idr, .lidr",
+         "number_of_header_section": 14
+      },
+      {
+         "name": "Java",
+         "url": "https://en.wikipedia.org//wiki/Java_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "generic",
+            "object-oriented",
+            "class-based",
+            "functional",
+            "imperative",
+            "reflective",
+            "concurrent"
+         ],
+         "first_appeared": "May\u00a023, 1995",
+         "file_extension": ".java, .class, .jar, .jmod",
+         "number_of_header_section": 35
+      },
+      {
+         "name": "JavaScript",
+         "url": "https://en.wikipedia.org//wiki/JavaScript",
+         "paradigm": [
+            "Multi-paradigm",
+            "event-driven",
+            "functional",
+            "imperative",
+            "procedural",
+            "object-oriented programming"
+         ],
+         "first_appeared": "December\u00a04, 1995",
+         "file_extension": "\n.js\n.cjs\n.mjs[4]\n",
+         "number_of_header_section": 43
+      },
+      {
+         "name": "Julia",
+         "url": "https://en.wikipedia.org//wiki/Julia_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "multiple dispatch",
+            "procedural",
+            "functional",
+            "meta",
+            "multistaged",
+            "[1]"
+         ],
+         "first_appeared": "2012",
+         "file_extension": ".jl",
+         "number_of_header_section": 20
+      },
+      {
+         "name": "Kojo",
+         "url": "https://en.wikipedia.org//wiki/Kojo_(programming_language)",
+         "paradigm": [
+            "structured",
+            "functional",
+            "object-oriented"
+         ],
+         "first_appeared": "2010",
+         "file_extension": ".scala, .kojo",
+         "number_of_header_section": 4
+      },
+      {
+         "name": "Kotlin",
+         "url": "https://en.wikipedia.org//wiki/Kotlin_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "object-oriented",
+            "functional",
+            "imperative",
+            "block structured",
+            "declarative",
+            "generic",
+            "reflective",
+            "concurrent"
+         ],
+         "first_appeared": "July\u00a022, 2011",
+         "file_extension": ".kt, .kts, .ktm",
+         "number_of_header_section": 30
+      },
+      {
+         "name": "Lasso",
+         "url": "https://en.wikipedia.org//wiki/Lasso_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "structured",
+            "object-oriented",
+            "multi-dis",
+            "imperative",
+            "procedural",
+            "concurrent",
+            "exp-oriented",
+            "Meta",
+            "reflective"
+         ],
+         "first_appeared": "1995",
+         "file_extension": ".lasso, .LassoApp",
+         "number_of_header_section": 13
+      },
+      {
+         "name": "LiveScript",
+         "url": "https://en.wikipedia.org//wiki/LiveScript",
+         "paradigm": [
+            "multi-paradigm",
+            "functional",
+            "object-oriented"
+         ],
+         "first_appeared": "2011",
+         "file_extension": ".ls",
+         "number_of_header_section": 10
+      },
+      {
+         "name": "Lua",
+         "url": "https://en.wikipedia.org//wiki/Lua_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "scripting",
+            "imperative",
+            "procedural",
+            "prototype-based",
+            "object-oriented",
+            "functional",
+            "meta",
+            "reflective"
+         ],
+         "first_appeared": "1993",
+         "file_extension": ".lua",
+         "number_of_header_section": 23
+      },
+      {
+         "name": "MATLAB",
+         "url": "https://en.wikipedia.org//wiki/MATLAB",
+         "paradigm": [
+            "multi-paradigm",
+            "functional",
+            "imperative",
+            "procedural",
+            "object-oriented",
+            "array"
+         ],
+         "first_appeared": "late 1970s",
+         "file_extension": ".m, .p,[2] .mex*,[3] .mat,[4] .fig,[5] .mlx,[6] .mlapp,[7] .mltbx,[8] .mlappinstall,[9] .mlpkginstall[10]",
+         "number_of_header_section": 23
+      },
+      {
+         "name": "Mercury",
+         "url": "https://en.wikipedia.org//wiki/Mercury_(programming_language)",
+         "paradigm": [
+            "Logic",
+            "functional",
+            "object-oriented"
+         ],
+         "first_appeared": "April\u00a08, 1995",
+         "file_extension": ".m",
+         "number_of_header_section": 14
+      },
+      {
+         "name": "MIVA Script",
+         "url": "https://en.wikipedia.org//wiki/MIVA_Script",
+         "paradigm": [
+            "imperative"
+         ],
+         "first_appeared": "1996\u00a0(1996)",
+         "file_extension": ".mv, .mvc, .mvt",
+         "number_of_header_section": 12
+      },
+      {
+         "name": "Modelica",
+         "url": "https://en.wikipedia.org//wiki/Modelica",
+         "paradigm": [
+            "Declarative language"
+         ],
+         "first_appeared": "1997",
+         "file_extension": ".mo",
+         "number_of_header_section": 16
+      },
+      {
+         "name": "Modula-2",
+         "url": "https://en.wikipedia.org//wiki/Modula-2",
+         "paradigm": [
+            "imperative",
+            "structured",
+            "modular",
+            "data and procedure hiding",
+            "concurrent"
+         ],
+         "first_appeared": "1978",
+         "file_extension": ".mod, .m2, .def, .MOD, .DEF, .mi, .md",
+         "number_of_header_section": 23
+      },
+      {
+         "name": "MSL",
+         "url": "https://en.wikipedia.org//wiki/MIRC_scripting_language",
+         "paradigm": [
+            "Event-driven programming",
+            "Procedural programming"
+         ],
+         "first_appeared": "1995\u00a0(1995)",
+         "file_extension": ".mrc, .ini",
+         "number_of_header_section": 17
+      },
+      {
+         "name": "Nemerle",
+         "url": "https://en.wikipedia.org//wiki/Nemerle",
+         "paradigm": [
+            "Multi-paradigm",
+            "aspect-oriented",
+            "event-driven",
+            "functional",
+            "generic",
+            "imperative",
+            "meta",
+            "object-oriented",
+            "reflective"
+         ],
+         "first_appeared": "2003",
+         "file_extension": ".n",
+         "number_of_header_section": 26
+      },
+      {
+         "name": "NetLogo",
+         "url": "https://en.wikipedia.org//wiki/NetLogo",
+         "paradigm": [
+            "multi-paradigm",
+            "educational",
+            "procedural",
+            "agent-based",
+            "simulation"
+         ],
+         "first_appeared": "1999",
+         "file_extension": ".nlogo, .nlogo3d, .nls",
+         "number_of_header_section": 14
+      },
+      {
+         "name": "NetRexx",
+         "url": "https://en.wikipedia.org//wiki/NetRexx",
+         "paradigm": [
+            "multiparadigm",
+            "object-oriented",
+            "procedural",
+            "structured"
+         ],
+         "first_appeared": "1996",
+         "file_extension": ".nrx",
+         "number_of_header_section": 8
+      },
+      {
+         "name": "Nial",
+         "url": "https://en.wikipedia.org//wiki/Nial",
+         "paradigm": [
+            "array"
+         ],
+         "first_appeared": "1981",
+         "file_extension": ".ndf, .nlg",
+         "number_of_header_section": 17
+      },
+      {
+         "name": "Nim",
+         "url": "https://en.wikipedia.org//wiki/Nim_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "compiled",
+            "concurrent",
+            "procedural",
+            "imperative",
+            "functional",
+            "object-oriented",
+            "meta"
+         ],
+         "first_appeared": "2008",
+         "file_extension": ".nim, .nims, .nimble",
+         "number_of_header_section": 56
+      },
+      {
+         "name": "Object REXX",
+         "url": "https://en.wikipedia.org//wiki/Object_REXX",
+         "paradigm": [
+            "Object-oriented",
+            "class-based"
+         ],
+         "first_appeared": "1988",
+         "file_extension": ".rxs, .rex",
+         "number_of_header_section": 6
+      },
+      {
+         "name": "Object Pascal",
+         "url": "https://en.wikipedia.org//wiki/Object_Pascal",
+         "paradigm": [
+            "Imperative",
+            "structured",
+            "object-oriented",
+            "functional",
+            "component-based",
+            "event-driven",
+            "generic"
+         ],
+         "first_appeared": "1986",
+         "file_extension": ".p, .pp, .pas",
+         "number_of_header_section": 25
+      },
+      {
+         "name": "OCaml",
+         "url": "https://en.wikipedia.org//wiki/OCaml",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "imperative",
+            "modular",
+            "[1]",
+            "object-oriented"
+         ],
+         "first_appeared": "1996",
+         "file_extension": ".ml, .mli",
+         "number_of_header_section": 24
+      },
+      {
+         "name": "P4",
+         "url": "https://en.wikipedia.org//wiki/P4_(programming_language)",
+         "paradigm": [
+            "compiled",
+            "domain-specific",
+            "imperative"
+         ],
+         "first_appeared": "2013",
+         "file_extension": ".p4",
+         "number_of_header_section": 21
+      },
+      {
+         "name": "ParaSail",
+         "url": "https://en.wikipedia.org//wiki/ParaSail_(programming_language)",
+         "paradigm": [
+            "compiled",
+            "concurrent",
+            "imperative",
+            "structured",
+            "object-oriented"
+         ],
+         "first_appeared": "2009",
+         "file_extension": ".psi, .psl",
+         "number_of_header_section": 9
+      },
+      {
+         "name": "Pascal",
+         "url": "https://en.wikipedia.org//wiki/Pascal_(programming_language)",
+         "paradigm": [
+            "Imperative",
+            "structured"
+         ],
+         "first_appeared": "1970",
+         "file_extension": ".pp, .pas, .inc",
+         "number_of_header_section": 39
+      },
+      {
+         "name": "Pascal Script",
+         "url": "https://en.wikipedia.org//wiki/Pascal_Script",
+         "paradigm": [
+            "Procedural",
+            "object-oriented",
+            "scripting"
+         ],
+         "first_appeared": "2000",
+         "file_extension": ".pas",
+         "number_of_header_section": 8
+      },
+      {
+         "name": "Perl",
+         "url": "https://en.wikipedia.org//wiki/Perl",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "imperative",
+            "object-oriented",
+            "class-based",
+            "reflective"
+         ],
+         "first_appeared": "February\u00a01, 1988",
+         "file_extension": ".plx, .pl, .pm, .xs, .t, .pod, .cgi",
+         "number_of_header_section": 42
+      },
+      {
+         "name": "PHP",
+         "url": "https://en.wikipedia.org//wiki/PHP",
+         "paradigm": [
+            "Multi-paradigm",
+            "imperative",
+            "functional",
+            "object-oriented",
+            "procedural",
+            "reflective"
+         ],
+         "first_appeared": "June\u00a08, 1995",
+         "file_extension": ".php,.phar,.phtml,.pht,.phps",
+         "number_of_header_section": 38
+      },
+      {
+         "name": "Picolisp",
+         "url": "https://en.wikipedia.org//wiki/Picolisp",
+         "paradigm": [
+            "Functional",
+            "procedural",
+            "object-oriented",
+            "declarative",
+            "reflective",
+            "meta"
+         ],
+         "first_appeared": "1988",
+         "file_extension": ".l",
+         "number_of_header_section": 8
+      },
+      {
+         "name": "PL/B",
+         "url": "https://en.wikipedia.org//wiki/Programming_Language_for_Business",
+         "paradigm": [
+            "Procedural",
+            "imperative"
+         ],
+         "first_appeared": "1972",
+         "file_extension": ".rl, .ps, .cb",
+         "number_of_header_section": 8
+      },
+      {
+         "name": "PowerShell",
+         "url": "https://en.wikipedia.org//wiki/PowerShell",
+         "paradigm": [
+            "Imperative",
+            "pipeline",
+            "object-oriented",
+            "functional",
+            "reflective"
+         ],
+         "first_appeared": "November\u00a014, 2006",
+         "file_extension": "\n.ps1 (Script)\n.ps1xml (XML Document)\n.psc1 (Console File)\n.psd1 (Data File)\n.psm1 (Script Module)\n.pssc (Session Configuration File)\n.psrc (Role Capability File)\n.cdxml (Cmdlet Definition XML Document)\n",
+         "number_of_header_section": 36
+      },
+      {
+         "name": "Processing",
+         "url": "https://en.wikipedia.org//wiki/Processing_(programming_language)",
+         "paradigm": [
+            "Object-oriented"
+         ],
+         "first_appeared": "2001",
+         "file_extension": ".pde",
+         "number_of_header_section": 27
+      },
+      {
+         "name": "Processing.js",
+         "url": "https://en.wikipedia.org//wiki/Processing.js",
+         "paradigm": [
+            "Object-oriented"
+         ],
+         "first_appeared": "2001",
+         "file_extension": ".pde",
+         "number_of_header_section": 27
+      },
+      {
+         "name": "Project Verona",
+         "url": "https://en.wikipedia.org//wiki/Project_Verona",
+         "paradigm": [],
+         "first_appeared": "2019",
+         "file_extension": ".verona",
+         "number_of_header_section": 6
+      },
+      {
+         "name": "Prolog",
+         "url": "https://en.wikipedia.org//wiki/Prolog",
+         "paradigm": [
+            "Logic"
+         ],
+         "first_appeared": "1972",
+         "file_extension": ".pl, .pro, .P",
+         "number_of_header_section": 46
+      },
+      {
+         "name": "PROMAL",
+         "url": "https://en.wikipedia.org//wiki/PROMAL",
+         "paradigm": [
+            "Imperative",
+            "procedural",
+            "structured"
+         ],
+         "first_appeared": "1984-08-16",
+         "file_extension": ".s",
+         "number_of_header_section": 8
+      },
+      {
+         "name": "PureScript",
+         "url": "https://en.wikipedia.org//wiki/PureScript",
+         "paradigm": [
+            "Functional"
+         ],
+         "first_appeared": "2013",
+         "file_extension": ".purs",
+         "number_of_header_section": 10
+      },
+      {
+         "name": "PWCT",
+         "url": "https://en.wikipedia.org//wiki/PWCT",
+         "paradigm": [
+            "Multi-paradigm",
+            "Visual Programming",
+            "imperative",
+            "procedural",
+            "object-oriented"
+         ],
+         "first_appeared": "December\u00a026, 2005",
+         "file_extension": ".ssf",
+         "number_of_header_section": 14
+      },
+      {
+         "name": "Python",
+         "url": "https://en.wikipedia.org//wiki/Python_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "object-oriented",
+            "[1]",
+            "procedural",
+            "imperative",
+            "functional",
+            "structured",
+            "reflective"
+         ],
+         "first_appeared": "20\u00a0February 1991",
+         "file_extension": ".py, .pyi, .pyc, .pyd, .pyo (prior to 3.5),[10] .pyw, .pyz (since 3.5)[11]",
+         "number_of_header_section": 33
+      },
+      {
+         "name": "Q# (Microsoft programming language)",
+         "url": "https://en.wikipedia.org//wiki/Q_Sharp",
+         "paradigm": [
+            "Quantum",
+            "functional",
+            "imperative"
+         ],
+         "first_appeared": "December\u00a011,\u00a02017\u00a0(2017-12-11)",
+         "file_extension": ".qs",
+         "number_of_header_section": 15
+      },
+      {
+         "name": "R",
+         "url": "https://en.wikipedia.org//wiki/R_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "procedural",
+            "object-oriented",
+            "functional",
+            "reflective",
+            "imperative",
+            "array",
+            "[1]"
+         ],
+         "first_appeared": "August\u00a01993",
+         "file_extension": ".r[3].rdata.rds.rda[4]",
+         "number_of_header_section": 26
+      },
+      {
+         "name": "Racket",
+         "url": "https://en.wikipedia.org//wiki/Racket_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "imperative",
+            "logic",
+            "meta",
+            "modular",
+            "object-oriented",
+            "reflective"
+         ],
+         "first_appeared": "1995",
+         "file_extension": ".rkt[3]",
+         "number_of_header_section": 16
+      },
+      {
+         "name": "Raku",
+         "url": "https://en.wikipedia.org//wiki/Raku_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm"
+         ],
+         "first_appeared": "25\u00a0December 2015",
+         "file_extension": ".p6, .pm6, .pod6, .t6, .raku, .rakumod, .rakudoc, .rakutest [3]",
+         "number_of_header_section": 39
+      },
+      {
+         "name": "REBOL",
+         "url": "https://en.wikipedia.org//wiki/REBOL",
+         "paradigm": [
+            "language oriented programming",
+            "data exchange",
+            "functional",
+            "prototype-based",
+            "imperative"
+         ],
+         "first_appeared": "1997",
+         "file_extension": ".r, .reb[3]",
+         "number_of_header_section": 19
+      },
+      {
+         "name": "Red",
+         "url": "https://en.wikipedia.org//wiki/Red_(programming_language)",
+         "paradigm": [
+            "imperative",
+            "functional",
+            "symbolic"
+         ],
+         "first_appeared": "2011",
+         "file_extension": ".red, .reds",
+         "number_of_header_section": 14
+      },
+      {
+         "name": "REXX",
+         "url": "https://en.wikipedia.org//wiki/REXX",
+         "paradigm": [
+            "multiparadigm",
+            "procedural",
+            "structured"
+         ],
+         "first_appeared": "1979",
+         "file_extension": ".cmd, .bat, .exec, .rexx, .rex, EXEC",
+         "number_of_header_section": 30
+      },
+      {
+         "name": "Ring",
+         "url": "https://en.wikipedia.org//wiki/Ring_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "object-oriented",
+            "imperative",
+            "functional",
+            "procedural",
+            "reflective",
+            "declarative",
+            "natural language programming"
+         ],
+         "first_appeared": "January\u00a025, 2016",
+         "file_extension": ".ring, .rh, .rform",
+         "number_of_header_section": 27
+      },
+      {
+         "name": "Ruby",
+         "url": "https://en.wikipedia.org//wiki/Ruby_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "imperative",
+            "object-oriented",
+            "reflective"
+         ],
+         "first_appeared": "1995",
+         "file_extension": ".rb",
+         "number_of_header_section": 23
+      },
+      {
+         "name": "Rust",
+         "url": "https://en.wikipedia.org//wiki/Rust_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "concurrent",
+            "functional",
+            "generic",
+            "imperative",
+            "structured"
+         ],
+         "first_appeared": "July\u00a07, 2010",
+         "file_extension": ".rs, .rlib",
+         "number_of_header_section": 33
+      },
+      {
+         "name": "Scala",
+         "url": "https://en.wikipedia.org//wiki/Scala_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "concurrent",
+            "functional",
+            "imperative",
+            "object-oriented"
+         ],
+         "first_appeared": "20\u00a0January 2004",
+         "file_extension": ".scala, .sc",
+         "number_of_header_section": 39
+      },
+      {
+         "name": "Scheme",
+         "url": "https://en.wikipedia.org//wiki/Scheme_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "imperative",
+            "meta"
+         ],
+         "first_appeared": "1975",
+         "file_extension": ".scm, .ss",
+         "number_of_header_section": 39
+      },
+      {
+         "name": "Scratch",
+         "url": "https://en.wikipedia.org//wiki/Scratch_(programming_language)",
+         "paradigm": [
+            "Event-driven",
+            "block-based"
+         ],
+         "first_appeared": "2003",
+         "file_extension": "\n.scratch (Scratch 0.x)*.sb, *.sprite (Scratch 1.x)*.sb2, *.sprite2 (Scratch 2.0)*.sb3, *.sprite3 (Scratch 3.0)\n",
+         "number_of_header_section": 32
+      },
+      {
+         "name": "Seed7",
+         "url": "https://en.wikipedia.org//wiki/Seed7",
+         "paradigm": [
+            "multi-paradigm",
+            "extensible",
+            "object-oriented",
+            "imperative",
+            "structured",
+            "generic",
+            "reflective"
+         ],
+         "first_appeared": "2005",
+         "file_extension": ".sd7, .s7i",
+         "number_of_header_section": 14
+      },
+      {
+         "name": "SenseTalk",
+         "url": "https://en.wikipedia.org//wiki/SenseTalk",
+         "paradigm": [
+            "People Oriented Programming",
+            "Multi-paradigm",
+            "Object-oriented"
+         ],
+         "first_appeared": "1992",
+         "file_extension": "\n.script\n.st\n",
+         "number_of_header_section": 18
+      },
+      {
+         "name": "SML",
+         "url": "https://en.wikipedia.org//wiki/Standard_ML",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "imperative",
+            "modular",
+            "[1]"
+         ],
+         "first_appeared": "1983",
+         "file_extension": ".sml",
+         "number_of_header_section": 39
+      },
+      {
+         "name": "Snap!",
+         "url": "https://en.wikipedia.org//wiki/Snap!_(programming_language)",
+         "paradigm": [
+            "object-oriented",
+            "educational",
+            "event-driven"
+         ],
+         "first_appeared": "2011",
+         "file_extension": ".xml (Snap!)",
+         "number_of_header_section": 15
+      },
+      {
+         "name": "Source",
+         "url": "https://en.wikipedia.org//wiki/Source_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "scripting",
+            "imperative",
+            "procedural",
+            "functional"
+         ],
+         "first_appeared": "2017",
+         "file_extension": ".js",
+         "number_of_header_section": 9
+      },
+      {
+         "name": "Squeak",
+         "url": "https://en.wikipedia.org//wiki/Squeak",
+         "paradigm": [
+            "object-oriented"
+         ],
+         "first_appeared": "1996",
+         "file_extension": ".image, .changes, .sources, .st",
+         "number_of_header_section": 13
+      },
+      {
+         "name": "Squirrel",
+         "url": "https://en.wikipedia.org//wiki/Squirrel_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "scripting",
+            "imperative",
+            "functional",
+            "object-oriented"
+         ],
+         "first_appeared": "September\u00a06, 2003",
+         "file_extension": ".nut",
+         "number_of_header_section": 13
+      },
+      {
+         "name": "Swift (Apple programming language)",
+         "url": "https://en.wikipedia.org//wiki/Swift_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "protocol-oriented",
+            "object-oriented",
+            "functional",
+            "imperative",
+            "block structured",
+            "declarative",
+            "concurrent"
+         ],
+         "first_appeared": "June\u00a02, 2014",
+         "file_extension": ".swift, .SWIFT",
+         "number_of_header_section": 23
+      },
+      {
+         "name": "Tcl",
+         "url": "https://en.wikipedia.org//wiki/Tcl",
+         "paradigm": [
+            "Multi-paradigm",
+            "event-driven",
+            "functional",
+            "imperative",
+            "object-oriented"
+         ],
+         "first_appeared": "1988",
+         "file_extension": ".tcl, .tbc[5]",
+         "number_of_header_section": 20
+      },
+      {
+         "name": "TypeScript",
+         "url": "https://en.wikipedia.org//wiki/TypeScript",
+         "paradigm": [
+            "Multi-paradigm",
+            "functional",
+            "generic",
+            "imperative",
+            "object-oriented"
+         ],
+         "first_appeared": "1\u00a0October 2012",
+         "file_extension": ".ts, .tsx",
+         "number_of_header_section": 26
+      },
+      {
+         "name": "Umple",
+         "url": "https://en.wikipedia.org//wiki/Umple",
+         "paradigm": [
+            "object-oriented"
+         ],
+         "first_appeared": "2008",
+         "file_extension": ".ump",
+         "number_of_header_section": 13
+      },
+      {
+         "name": "Vala",
+         "url": "https://en.wikipedia.org//wiki/Vala_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "imperative",
+            "structured",
+            "object-oriented"
+         ],
+         "first_appeared": "2006",
+         "file_extension": ".vala, .vapi",
+         "number_of_header_section": 24
+      },
+      {
+         "name": "WebAssembly",
+         "url": "https://en.wikipedia.org//wiki/WebAssembly",
+         "paradigm": [
+            "structured",
+            "stack machine",
+            "[1]"
+         ],
+         "first_appeared": "March\u00a02017",
+         "file_extension": ".mw-parser-output .monospaced{font-family:monospace,monospace}.wat (text format).wasm (binary format)",
+         "number_of_header_section": 21
+      },
+      {
+         "name": "Wolfram Language",
+         "url": "https://en.wikipedia.org//wiki/Wolfram_Language",
+         "paradigm": [
+            "Multi-paradigm",
+            "term-rewriting",
+            "functional",
+            "procedural",
+            "array"
+         ],
+         "first_appeared": "1988",
+         "file_extension": ".nb, .m, .wl",
+         "number_of_header_section": 15
+      },
+      {
+         "name": "X10",
+         "url": "https://en.wikipedia.org//wiki/X10_(programming_language)",
+         "paradigm": [
+            "Object-oriented"
+         ],
+         "first_appeared": "2004",
+         "file_extension": ".x10",
+         "number_of_header_section": 8
+      },
+      {
+         "name": "XQuery",
+         "url": "https://en.wikipedia.org//wiki/XQuery",
+         "paradigm": [
+            "declarative",
+            "functional",
+            "modular"
+         ],
+         "first_appeared": "2007",
+         "file_extension": ".xq, .xql, .xqm, .xqy, .xquery",
+         "number_of_header_section": 20
+      },
+      {
+         "name": "XSLT",
+         "url": "https://en.wikipedia.org//wiki/XSLT",
+         "paradigm": [
+            "Declarative"
+         ],
+         "first_appeared": "1998",
+         "file_extension": ".xslt",
+         "number_of_header_section": 18
+      },
+      {
+         "name": "Zig",
+         "url": "https://en.wikipedia.org//wiki/Zig_(programming_language)",
+         "paradigm": [
+            "Multi-paradigm",
+            "imperative",
+            "concurrent",
+            "procedural",
+            "functional"
+         ],
+         "first_appeared": "8\u00a0February 2016",
+         "file_extension": ".zig, .zir",
+         "number_of_header_section": 10
+      }
+   ]
+}
